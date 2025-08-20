@@ -155,7 +155,7 @@ var vite_config_default = defineConfig({
       deny: ["**/.*"]
     }
   },
-  base: "/portfplio-repo"
+  base: "/portfolio-repo"
 });
 
 // server/vite.ts
