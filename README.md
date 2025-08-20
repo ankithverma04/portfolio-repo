@@ -68,3 +68,9 @@ Preferred communication style: Simple, everyday language.
 - **@tanstack/react-query**: Server state management and caching
 
 The application follows a modern full-stack architecture with clear separation between frontend and backend concerns, comprehensive type safety, and production-ready tooling for deployment and maintenance.
+
+# Note: 
+It is an AI generated Project Using Replit 
+thanks to replit for this...
+
+THANK YOU AND HAPPY CODING  :-)
